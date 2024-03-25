@@ -1,4 +1,5 @@
--- qb-cookies
+#itens
+Add these to your items.lua
 ```lua
 ["powdercakebud"]                    = {["name"] = "powdercakebud", 			 ["label"] = "Powder Cake Bud", 		     ["weight"] = 0, 		["type"] = "item", 		["image"] = "powdercakebud.png", 	        ["unique"] = false, 		   ["useable"] = false,        	["shouldClose"] = false,           ["combinable"] = nil,           ["description"] = ""},
 ["backwoods"]                    = {["name"] = "backwoods", 			 ["label"] = "Backwoods", 		     ["weight"] = 0, 		["type"] = "item", 		["image"] = "backwoods.png", 	        ["unique"] = false, 		   ["useable"] = false,        	["shouldClose"] = false,           ["combinable"] = nil,           ["description"] = ""},
@@ -19,6 +20,8 @@
 ["jefeblunt"]                    = {["name"] = "jefeblunt", 			 ["label"] = "Jefe Blunt", 		     ["weight"] = 0, 		["type"] = "item", 		["image"] = "jefeblunt.png", 	        ["unique"] = false, 		   ["useable"] = true,        	["shouldClose"] = true,           ["combinable"] = nil,           ["description"] = ""},
 ["gelatoblunt"]                    = {["name"] = "gelatoblunt", 			 ["label"] = "Gelato Blunt", 		     ["weight"] = 0, 		["type"] = "item", 		["image"] = "gelatoblunt.png", 	        ["unique"] = false, 		   ["useable"] = true,        	["shouldClose"] = true,           ["combinable"] = nil,           ["description"] = ""},
 ```
+# Job
+add this to your jobs.lua
 ```lua
 	['cookies'] = {
 		label = 'Cookies weed',
