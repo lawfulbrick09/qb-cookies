@@ -1,4 +1,4 @@
-# itens
+# Items
 Add these to your items.lua
 ```lua
 ["powdercakebud"]                    = {["name"] = "powdercakebud", 			 ["label"] = "Powder Cake Bud", 		     ["weight"] = 0, 		["type"] = "item", 		["image"] = "powdercakebud.png", 	        ["unique"] = false, 		   ["useable"] = false,        	["shouldClose"] = false,           ["combinable"] = nil,           ["description"] = ""},
